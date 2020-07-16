@@ -6,3 +6,5 @@ Reading and reference material for deep learning
 [Pytorch tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 [Deep learning textbook](http://www.deeplearningbook.org/)
+
+[Project ideas from duke](https://github.com/inkawhich/intro-deep-learning)
