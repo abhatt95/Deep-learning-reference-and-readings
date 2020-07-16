@@ -8,3 +8,8 @@ Reading and reference material for deep learning
 [Deep learning textbook](http://www.deeplearningbook.org/)
 
 [Project ideas from duke](https://github.com/inkawhich/intro-deep-learning)
+
+## Generative Adversarial Nets
+
+* [Orignal research paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* [Pytorch implementation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
