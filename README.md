@@ -13,5 +13,5 @@ Reading and reference material for deep learning
 
 ## Generative Adversarial Nets
 
-* [Orignal research paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* [research paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 * [Pytorch implementation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
