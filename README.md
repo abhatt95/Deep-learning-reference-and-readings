@@ -9,6 +9,8 @@ Reading and reference material for deep learning
 
 [Project ideas from duke](https://github.com/inkawhich/intro-deep-learning)
 
+[CS 230 Stanford](https://cs230.stanford.edu/lecture/)
+
 ## Generative Adversarial Nets
 
 * [Orignal research paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
