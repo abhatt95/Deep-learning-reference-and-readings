@@ -1,8 +1,7 @@
 # Deep learning reference and readings
 Reading and reference material for deep learning
 
-Deeplearning in AI tree 
-
+[Deeplearning in AI tree](https://coggle.it/diagram/W72Md-O61TiNmYAX/t/subdomains-of-ai)
 
 
 ## Blogs
