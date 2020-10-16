@@ -3,6 +3,8 @@ Reading and reference material for deep learning
 
 ## Blogs
 
+[Deep learning exploration](http://christinemcleavey.com/)
+
 
 ## Tutorial and project
 
