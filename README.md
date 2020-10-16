@@ -19,6 +19,8 @@ Reading and reference material for deep learning
 
 [CS 230 Stanford](https://cs230.stanford.edu/lecture/)
 
+[Fast AI](https://course.fast.ai/)
+
 [CS 395T UT Austin](http://www.philkr.net/cs395t/)
 
 > List of progressive preliminary literature 
