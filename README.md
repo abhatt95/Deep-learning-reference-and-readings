@@ -36,6 +36,7 @@ Reading and reference material for deep learning
 
 * [Research paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 * [Pytorch implementation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+* [Kaggle Monet Dataset implementation](https://www.kaggle.com/amyjang/monet-cyclegan-tutorial)
 
 ## Misc 
 
